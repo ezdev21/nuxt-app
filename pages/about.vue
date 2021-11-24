@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>{{x}}</p>
+    <p class="tetx-primary text-xl">this app is simple blog</p>
   </div>
 </template>
 <script>
